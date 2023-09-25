@@ -1,11 +1,10 @@
 # Java Programming 1 MOOC University of Helsinki
  
-This is the first part of the [University of Helsinki’s free massive open online course (MOOC) on Object-Oriented Programming with Java](https://java-programming.mooc.fi/).
+This is the Part I of the University of Helsinki’s free massive open online course (MOOC) on [Object-Oriented Programming with Java](https://java-programming.mooc.fi/).
 
 
--------------------------------------------------------------------
-## Course Contents ##
-#### Part 1: #
+## Course Contents
+#### Part 1:
  1. Getting started with programming
  2. Printing
  3. Reading input
